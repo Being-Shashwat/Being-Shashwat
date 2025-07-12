@@ -72,5 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Data+Lover+📊;Creative+Thinker+🧠;Tech+Explorer+🔎;Always+Learning+📚" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Data+Lover+%F0%9F%93%8A;Creative+Thinker+%F0%9F%A7%9D%E2%80%8D%E2%99%80%EF%B8%8F;Tech+Explorer+%F0%9F%94%8E;Always+Learning+%F0%9F%93%9A" alt="Typing SVG"/>
 </p>
